@@ -1,0 +1,7 @@
+[GLOBAL]
+plugin.tx_fed.fce.fed {
+	label = Fluid: FED
+	templateRootPath = EXT:fluidcontent_fed/Resources/Private/Elements/
+	partialRootPath = EXT:fluidcontent/Resources/Private/Partials/
+    layoutRootPath = EXT:fluidcontent/Resources/Private/Layouts/
+}
