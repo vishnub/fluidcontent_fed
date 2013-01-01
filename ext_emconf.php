@@ -11,7 +11,7 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = array(
-	'title' => 'Fluid Content Elements: FED',
+	'title' => 'Fluid Content: FED Elements',
 	'description' => 'A collection of general purpose Fluid Content Elements written for EXT:fluidcontent using ViewHelpers from EXT:fed',
 	'category' => 'misc',
 	'author' => 'Claus Due',
